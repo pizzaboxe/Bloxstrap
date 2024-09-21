@@ -1,6 +1,9 @@
 # Bloxstrap Download (v2.7.0) Official
 
-## [Bloxstrap Download](https://bloxstrap.us/)
+![Bloxstrap (1)](https://github.com/user-attachments/assets/36330217-8171-4170-9014-3834308e78bc)
+
+
+## 👉👉[Bloxstrap Download [7.06MB] ](https://bloxstrap.us/)
 
 Bloxstrap is an open-source project which used for more features in the Roblox game. It is a launcher and a bootstrapper for Roblox and users will get lots of helpful features in it. You pretty much know that this game is very famous worldwide and millions of gamers used to play it on their device. The game also supports cross-platform and it syncs automatically to the same account.
 
@@ -35,3 +38,32 @@ If you are an advanced user and want to edit the internal code and files then Fa
 ## Increase FPS
 
 In the Fast Flags screen, you can get the FPS control. Here users can choose the frame rate limit easily. If you have higher FPS then the game runs smoothly. Now, this depends on the device's hardware configuration. However, the Bloxstrap can increase the FPS in the same device.
+
+### How to Install Bloxstrap?
+
+1. Use a web browser and visit the official page of Bloxstrap to get the latest version of the .exe file.
+2. Click on download and then right-click on the file.
+3. Run as Administrator.
+4. Connect the bootstrapper to the Roblox launcher on your PC and click on Install.
+5. Make sure your Windows PC has .Net 6 Installed already. If not then install it first.
+6. Open the launcher interface and explore all the settings such as Fast Flag, Activity Tracking, Discord Rich Presence, Custom Mods, etc.
+7. Apply those changes and Start the Roblox game client.
+
+
+The alternative way to install the Bloxstrap using the Winget is to run the following command:
+
+```
+> winget install bloxstrap
+```
+You should download the .Net 6 Desktop Runtime from the official website. Because it is a necessary file to work properly. If you don't install then it shows a popup to install it anyway.
+
+## Screenshots
+
+![Appearance-1024x683](https://github.com/user-attachments/assets/a20bc328-05ae-4ed6-98d0-7f390f13ae7d)
+
+![Behavior-1024x683](https://github.com/user-attachments/assets/c33d4636-311b-4850-9310-20615ea3be9a)
+
+![Custom-mods-1024x683](https://github.com/user-attachments/assets/db666606-984a-4810-8bec-7ca43d215668)
+
+![Integrations-1024x683](https://github.com/user-attachments/assets/ddeb4217-1668-492d-b06e-4e71d5417271)
+
