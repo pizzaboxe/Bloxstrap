@@ -3,7 +3,7 @@
 ![Bloxstrap (1)](https://github.com/user-attachments/assets/36330217-8171-4170-9014-3834308e78bc)
 
 
-## 👉👉[Bloxstrap Download [7.06MB] ](https://bloxstrap.us/)
+## 👉👉[Bloxstrap Download 7.06MB](https://bloxstrap.us/)
 
 Bloxstrap is an open-source project which used for more features in the Roblox game. It is a launcher and a bootstrapper for Roblox and users will get lots of helpful features in it. You pretty much know that this game is very famous worldwide and millions of gamers used to play it on their device. The game also supports cross-platform and it syncs automatically to the same account.
 
